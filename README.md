@@ -18,3 +18,8 @@
 ![img_2.png](img_2.png)
 2. Row的情况可参考Column
 3. Box,类似FrameLayout
+## [Basics of Modifier] (https://semicolonspace.com/jetpack-compose-modifier/)
+1. The Order of Modifier Functions Matters
+   1. 修饰符需要注重修饰顺序，后者会对前者做修饰
+2. Scope also Matters
+   1. 需要注重父控件的作用域，不同作用域提供不同的修饰符
